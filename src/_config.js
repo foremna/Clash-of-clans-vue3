@@ -1,4 +1,4 @@
-export const appName = "Notes";
+export const appName = "Clash of clans";
 
 export const links = [
 	{
